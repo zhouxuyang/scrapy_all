@@ -1,0 +1,8 @@
+# 当前价格、出价次数、成交人
+https://used-api.jd.com/auctionRecord/batchCurrentInfo?auctionId=114538238&callback=__jp6
+# 同类推荐
+https://used-api.jd.com/recommend/topNSalesVolumeRecommend?category3=690&recommendCount=10&callback=__jp8
+# 同类夺宝
+https://used-api.jd.com/recommend/auctionRecommend?category3=690&recommendCount=3&callback=__jp7
+# 京东商城对应商品
+https://used-api.jd.com/product/rnProductImages?usedNo=42946610701&p=1&auctionProductType=1&callback=__jp3
